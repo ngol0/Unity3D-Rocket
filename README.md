@@ -1,4 +1,4 @@
-# unity3D-rocket
+# Unity3D Rocket Landing
 Control the rockets so that it lands on the right place where it takes you to the next station!
 
 Play the first 3 levels here: https://lamngo.itch.io/rocket-boost
